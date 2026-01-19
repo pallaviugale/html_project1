@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+
+.img{
+    margin:20px;
+    height: 300px;
+}
+
+.img2{
+    margin:20px;
+    height: 400px;
+    padding: 10px;
+}
+
