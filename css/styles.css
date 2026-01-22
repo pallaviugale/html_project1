@@ -5,7 +5,7 @@ h1{
 
 .img{
     margin:20px;
-    height: 300px;
+    height: 400px;
 }
 
 .img2{
@@ -16,4 +16,27 @@ h1{
 .product_img{
      height: 300px;
     padding: 10px;
+}
+
+.footer{
+    background-color: aqua;
+    text-align: center;
+    padding: 10px 0;
+    margin-top: 30px;
+    font-size: 20px;
+
+}
+
+.p1{
+    color: gray;
+    
+}
+
+.c{
+    color: red;
+    text-shadow: 10px 10px 10px red;
+}
+
+.c1{
+    text:aqua;
 }
